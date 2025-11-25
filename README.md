@@ -1,1 +1,1 @@
-# AI-Mart-expense-traker
+# AI-Smart-expense-traker
